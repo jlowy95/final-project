@@ -8,6 +8,7 @@ as home valuation with relative ease.  By using detailed home listing data, we h
 predict home price or rental price based on an assortment of property features.  Property price estimation is a much greater problem
 than what our model and selection of features can grasp, but we aim to use this model as a starting point and reference for future
 assessment. [Read more...](https://github.com/tbergama/final-project/blob/master/analysis.md)
+## [Video Walkthrough] (https://youtu.be/w_vlm8rqpK8)
 
 ## Deployment
 **Dependencies**
